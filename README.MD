@@ -1,19 +1,3 @@
-Below is a **clean, professional, GitHub-ready README.md** for your project, including:
-
-✔ Overview
-✔ Architecture diagram (ASCII)
-✔ Why the **other service (hello-lb)** is needed
-✔ How to run
-✔ How each LB strategy works
-✔ Testing instructions (curl, Postman, nc)
-✔ Limitations & next steps
-
-You can paste this directly into your GitHub repo.
-
----
-
-# 📘 **README.md — TCP Load Balancer (Spring Boot + Java)**
-
 ## 🚀 Overview
 
 This project implements a **custom TCP Load Balancer** using **pure Java sockets** and **Spring Boot configuration management**.
@@ -293,16 +277,3 @@ load-balancer/
 * Implement NIO (Netty) for high performance
 * Add metrics + dashboard
 * Implement request logging
-
----
-
-# 🎉 Done!
-
-If you want, I can also:
-
-✅ Generate a Postman Collection
-✅ Create Docker Compose for LB + hello-lb
-✅ Add architecture diagrams (PNG)
-✅ Add troubleshooting section
-
-Would you like any of these?
